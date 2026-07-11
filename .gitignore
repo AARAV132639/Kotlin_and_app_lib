@@ -1,0 +1,12 @@
+04_Target_List/ 
+.vscode/
+bin/
+
+# Gradle build outputs
+build/
+.gradle/
+
+# Android Studio
+.idea/
+*.iml
+local.properties

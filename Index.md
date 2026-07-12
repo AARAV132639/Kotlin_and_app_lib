@@ -7,3 +7,5 @@
 1. **Implementation of programs demonstrating variables, data types, operators, control statements, and loops.**
 
 2. **Implementation of functions including default arguments, named arguments, and higher-order functions.**
+
+3. 3. **Implementation of arrays, lists, sets, and maps using Kotlin Collections.**

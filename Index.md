@@ -11,3 +11,7 @@
 3. **Implementation of arrays, lists, sets, and maps using Kotlin Collections.**
 
 4. **Implementation of null safety using nullable types, safe calls, Elvis operator, and smart casts.** 
+
+5. **Implementation of string manipulation and extension functions.** 
+
+6. **Implementation of exception handling and custom exceptions.**

@@ -15,3 +15,7 @@
 5. **Implementation of string manipulation and extension functions.** 
 
 6. **Implementation of exception handling and custom exceptions.**
+
+### Phase 2: Object Oriented Programming
+
+7. **Implementation of classes, objects, constructors, properties, and initialization blocks.**

@@ -20,3 +20,8 @@
                 -Benefits
 
             2. Abstraction
+                            - What to hide?
+                            -Interface vs implementation
+                            -Abstract class
+                            -Interface (Java/Kotlin)
+                            -Pure virtual class (C++)

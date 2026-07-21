@@ -25,3 +25,16 @@
                             -Abstract class
                             -Interface (Java/Kotlin)
                             -Pure virtual class (C++)
+
+
+# 4. Memory & Object Lifecycle
+
+- Stack vs Heap
+- Object creation
+- Constructor
+- Destructor
+- Copy constructor (C++)
+- Assignment operator
+- Deep Copy
+- Shallow Copy
+- Move semantics (basic awareness)

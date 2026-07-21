@@ -70,3 +70,6 @@ without writing the boilerplate.
 - Dependency injection frameworks instantiate classes using constructors
 
 - *Jetpack Compose* relies heavily on immutable(val) state and constructor based design.
+
+---
+---

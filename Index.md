@@ -16,6 +16,17 @@
 
 6. **Implementation of exception handling and custom exceptions.**
 
+---
+
 ### Phase 2: Object Oriented Programming
 
 7. **Implementation of classes, objects, constructors, properties, and initialization blocks.**
+
+8. **Implementation of inheritance, interfaces, abstract classes, and polymorphism.**
+
+---
+
+# Phase 5 — Concurrency 
+
+22. **Implementation of multithreading using Kotlin Threads.**
+

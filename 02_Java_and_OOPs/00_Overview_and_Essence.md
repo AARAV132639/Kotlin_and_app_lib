@@ -32,3 +32,13 @@ In large codebase, explicit structure becomes valuable. One can look at a class 
     *Ulimately the goal is answer the same question*: 
             **How do we keep a large software system undestandable when it keeps changing?**
 
+3. *Key takeway for Java+OOP*
+
+- What are the entities?
+- What data does each entity own?
+- What behaviour belongs to each entity?
+- What relationships exist between entities?
+- Does a relationship deserve its own class?
+- What states can each entity have?
+- What invariants must always hold?
+- What parts are likely to change?

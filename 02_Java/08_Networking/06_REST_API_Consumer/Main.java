@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ApiClient apiClient= new ApiClient();
+        ApiClieHttpResponse apiClient= new ApiClieHttpResponse();
 
         String url = "https://jsonplaceholder.typicode.com/posts/1";
 

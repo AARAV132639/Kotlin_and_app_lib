@@ -4,11 +4,11 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class ApiClient{
+public class ApiClieHttpResponse{
 
     public final HttpClient client;
 
-    public ApiClient(){
+    public ApiClieHttpResponse(){
         client = HttpClient.newHttpClient();
     }
 

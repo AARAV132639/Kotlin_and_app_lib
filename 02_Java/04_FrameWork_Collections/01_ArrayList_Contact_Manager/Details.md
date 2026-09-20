@@ -43,3 +43,5 @@ ArrayList<Contact>
 - It doesn't care whether the user is interacting through: CLI, Android app, Web application, REST API
 - It only handles the application's business
 - Only handles the apllication's business operations
+
+## Whole file not yet compiling

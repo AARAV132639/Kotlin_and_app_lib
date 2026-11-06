@@ -15,6 +15,17 @@ To understand how frontend applications communicate with backend servers, perfor
 
 - Here we use JSON Placeholder as our testing backend
 
+
+## REST API
+- Representational State Transfer is an architecural style for designing APIs that allow different software systems to communicate over HTTP.
+
+## Fetch API
+- How do we send these HTTP requests from Javascript
+- Fetch is a built-in Javascript browser API that allows us to make HTTP requests and recieve responses
+
+## REST API client
+- Suppose application has 50 different places where you need to communicate with backend
+- Hence we create a reusable module called an API client.
 ## Architecture
 
 1. Frontend Application calls app.js: Calls API functions
